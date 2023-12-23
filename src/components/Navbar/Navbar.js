@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './Navbar.css';
 import { Link } from 'react-router-dom';
 
-const NavigationBar = () => {
+const Navbar = () => {
   return (
     <Navbar className="navbar center" expand="lg">
       <div className="container ">
@@ -25,4 +25,4 @@ const NavigationBar = () => {
   );
 };
 
-export default NavigationBar;
+export default Navbar;
