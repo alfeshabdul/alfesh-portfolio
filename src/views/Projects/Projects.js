@@ -29,7 +29,7 @@ lives, right?"
           </p >
           <h3 className="heading">Source Code</h3>
          
-          <a href="https://alfesh.netlify.app">LINK HERE</a>
+          <a href="https://gadget-trade-hub.netlify.app/">LINK HERE</a>
          
           </div>
 
@@ -42,7 +42,7 @@ lives, right?"
           <p className="wt-c">This is my personal Portfolio the one which your in now . </p> 
           <h3 className="heading">Source Code</h3>
          
-          <a href="https://gadget-trade-hub.netlify.app/">LINK HERE</a>
+          <a href="https://alfesh.netlify.app">LINK HERE</a>
          
           </div>
           <Icons/>
