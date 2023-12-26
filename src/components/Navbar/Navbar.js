@@ -7,21 +7,21 @@ const NavigationBar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-transparent">
       <div className="container">
-        <Link className="navbar-brand" to="/">ALFESH ABDUL</Link>
+        <Link className="navbar-brand" to="/"> <span className='bl-c'> ALFESH ABDUL </span></Link>
 
         <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav ml-auto">
+          <ul className="navbar-nav ml-auto ">
             <li className="nav-item">
-              <Link className="nav-link" to="/about">About</Link>
+              <Link className="nav-link wt-c" to="/about">About</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/education">Education</Link>
+              <Link className="nav-link wt-c" to="/education">Education</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/projects">Projects</Link>
+              <Link className="nav-link wt-c" to="/projects">Projects</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/">⌂</Link>
+              <Link className="nav-link wt-c" to="/">⌂</Link>
             </li>
           </ul>
         </div>
