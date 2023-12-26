@@ -8,7 +8,7 @@ function About() {
     <div className="body-container">
       <NavigationBar />
       <div className="center" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-        <h1> About <span className='bl-c'>Me</span></h1>
+        <h1> About<span className='bl-c'>Me</span></h1>
 
         <img style={{ width: '300px', height: '300px'}} src={pic} alt="" />
 
