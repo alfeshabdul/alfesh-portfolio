@@ -14,8 +14,8 @@ function About() {
 
         <h2>FULL STACK WEB DEVELOPER</h2>
         <p className="center">
-          Hello, I'm Alfesh Abdul. Nice to meet you. I am a Full Stack Web Developer by profession, skilled in Web Designing,
-          and proficient with ReactJS.
+          Hello, I'm Alfesh Abdul. Nice to meet you. I am a Full Stack Web Developer by profession<br></br> skilled in Web Designing,
+          and<br></br> proficient with ReactJS.
         </p>
 
         <Icons />
