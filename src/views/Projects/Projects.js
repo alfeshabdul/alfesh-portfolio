@@ -39,7 +39,7 @@ lives, right?"
 
           <div className="division">
           <h1 className="heading">Personal Portfolio</h1>
-          <p className="wt-c t-center ">This is my personal Portfolio the one which your in now . </p> 
+          <p className="wt-c t-center ">This is my personal Portfolio the one which your using now . </p> 
           <h3 className="wt-c mx-3">Source Code</h3>
          
           <a className="mx-5 link" href="https://alfesh.netlify.app">LINK HERE</a>
